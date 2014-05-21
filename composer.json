@@ -1,0 +1,14 @@
+{
+    "name": "thelfensdrfer/raspberry-camera-server",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tim Helfensdörfer",
+            "email": "thelfensdrfer@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	"aws/aws-sdk-php": "2.6.*"
+    }
+}
